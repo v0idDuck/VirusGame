@@ -38,4 +38,4 @@ Symbols:
 | `#` | Wall |
 | ` ` | Empty space |
 
-Example maps included in `levels/` folder(`example-levels.zip`).
+Example maps included in `levels/` folder ([example-levels.zip](https://github.com/v0idDuck/VirusGame/releases/latest)).
