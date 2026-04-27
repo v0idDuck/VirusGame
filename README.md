@@ -26,3 +26,16 @@ Files disappear after infection.
 | WASD / Arrow keys | Move |
 | ~ | Cheat menu (if enabled) |
 | ESC | Exit |
+
+## Custom Maps
+Place your map in `levels/custom.txt` and enable **Custom map** in settings.
+
+
+### Map format
+Symbols:
+| Symbol | Description |
+|--------|-------------|
+| `#` | Wall |
+| ` ` | Empty space |
+
+Example maps included in `levels/` folder(`example-levels.zip`).
