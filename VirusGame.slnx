@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VirusGame/VirusGame.vcxproj" Id="b25bcda7-db9c-4508-8d3d-ecfb3651d389" />
+</Solution>
